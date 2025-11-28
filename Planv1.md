@@ -1,6 +1,6 @@
 # PLAN.md
 
-**Disclaimer** : Ce plan est un "living plan" il est voué à changer/s'améliorer
+⚠️ **Disclaimer** : Ce plan est un "living plan" il est voué à changer/s'améliorer ⚠️
 
 ## Plan d’action – Déploiement Grafana, Prometheus, Stack LAMP & Grafonnet
 
